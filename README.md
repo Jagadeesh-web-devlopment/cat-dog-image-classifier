@@ -35,4 +35,3 @@
     Then load the weights from the h5 file saved in the previous step.
     This basically has 6 substeps before you can see the result.
     
-    
